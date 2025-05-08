@@ -14,31 +14,31 @@ This helps maintain clear and organized collaboration within the community.
 ---
 
 ## 👩‍💻 **Software Engineers**
-- [Join the Software Engineering Group](#link-to-software-engineering-group)
+- [Join the Software Engineering Group](https://discord.gg/x8HPxkWA8R)
 
 ## 🤖 **Robotics Engineers**
-- [Join the Robotics Engineering Group](#link-to-robotics-engineering-group)
+- [Join the Robotics Engineering Group](https://discord.gg/smzwRRQAfn)
 
 ## ⚡ **Electrical Engineers**
-- [Join the Electrical Engineering Group](#link-to-electrical-engineering-group)
+- [Join the Electrical Engineering Group](https://discord.gg/8vn9Txes6P)
 
 ## 🧠 **AI/ML Engineers**
-- [Join the AI/ML Engineering Group](#link-to-ai-ml-engineering-group)
+- [Join the AI/ML Engineering Group](https://discord.gg/nku4unReg5)
 
 ## 🛠️ **Hardware Engineers**
-- [Join the Hardware Engineering Group](#link-to-hardware-engineering-group)
+- [Join the Hardware Engineering Group](https://discord.gg/fDBgmDt7js)
 
 ## 🎨 **UI/UX Designers**
-- [Join the UI/UX Design Group](#link-to-ui-ux-design-group)
+- [Join the UI/UX Design Group](https://discord.gg/YVMQSDFxgK)
 
 ## 💼 **Business & Marketing Specialists**
-- [Join the Business & Marketing Group](#link-to-business-marketing-group)
+- [Join the Business & Marketing Group](https://discord.gg/tbdhzGrHtP)
 
 ## ⚖️ **Lawyers & Legal Advisors**
-- [Join the Legal & IP Group](#link-to-legal-group)
+- [Join the Legal & IP Group](https://discord.gg/j2BQsyWUt8)
 
 ## 🎥 **Video Editors & Animators**
-- [Join the Video Editing & Animation Group](#link-to-video-editing-group)
+- [Join the Video Editing & Animation Group](https://discord.gg/gAwV4hdbCd)
 
 
 ---
