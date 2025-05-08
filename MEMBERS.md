@@ -40,7 +40,9 @@ This helps maintain clear and organized collaboration within the community.
 ## 🎥 **Video Editors & Animators**
 - [Join the Video Editing & Animation Group](#link-to-video-editing-group)
 
+
 ---
+
 
 ## 📝 **How to Join**
 - Click one of the group links above to join your relevant team.
