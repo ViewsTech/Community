@@ -30,7 +30,7 @@ We have a variety of projects in different tech domains, including:
 If a project shows strong potential and quality, **ViewsTech will help take it to the next level** 
 Our community is not just about collaboration — it's about building tech that can **make an impact and generate real-world value**.
 
-Check out the `Projects.md` file to find out more about current projects and how you can contribute.
+Check out the [Projects.md](Projects.md) file to find out more about current projects and how you can contribute.
 
 ---
 
@@ -40,7 +40,7 @@ To ensure a productive and respectful environment, please follow these guideline
 
 - **Respect**: Treat all members with respect. We come from different backgrounds, and that diversity is our strength.
 - **Collaboration**: Feel free to ask questions, help others, and collaborate on any project. Open communication is key!
-- **Contribution**: Before contributing code, please review the `Contributing.md` file for instructions on how to submit your work.
+- **Contribution**: Before contributing code, please review the [Contributing.md](Contributing.md) file for instructions on how to submit your work.
 
 ---
 
@@ -63,14 +63,14 @@ Our community is made up of individuals from various backgrounds and expertise:
 - **Computer Scientists**: Develop software, AI, and algorithms.
 - **Mechatronics Engineers**: Integrate hardware and software systems.
 
-For a list of current members and how to join a group, see `MEMBERS.md`.
+For a list of current members and how to join a group, see [MEMBERS.md](MEMBERS.md).
 
 ---
 
 ## 🚀 How to Contribute
 
 We welcome contributions from everyone! Whether you are fixing bugs, adding new features, or writing documentation, your input is valuable.  
-Before you start, please read the `Contributing.md` for detailed instructions on how to contribute to the community and our projects.
+Before you start, please read the [Contributing.md](Contributing.md) for detailed instructions on how to contribute to the community and our projects.
 
 ---
 
@@ -87,7 +87,7 @@ If you’re passionate about tech and want to collaborate on exciting projects, 
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.
 
 ---
 
