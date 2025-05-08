@@ -37,8 +37,8 @@ This helps maintain clear and organized collaboration within the community.
 ## ⚖️ **Lawyers & Legal Advisors**
 - [Join the Legal & IP Group](#link-to-legal-group)
 
-## 💰 **Finance & Investment Experts**
-- [Join the Finance & Investment Group](#link-to-finance-group)
+## 🎥 **Video Editors & Animators**
+- [Join the Video Editing & Animation Group](#link-to-video-editing-group)
 
 ---
 
