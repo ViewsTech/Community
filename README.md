@@ -48,10 +48,7 @@ To ensure a productive and respectful environment, please follow these guideline
 
 Join our online community to discuss, share, and collaborate:
 
-- **Discord**: [Link to Discord server]
-- **Slack**: [Link to Slack workspace]
-- **Forum/Email**: [Link to forum or contact email]
-
+- **Discord**: []
 ---
 
 ## 🛠️ Roles & Members
