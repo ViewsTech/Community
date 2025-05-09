@@ -1,56 +1,49 @@
-# ViewsTech Community Members
+## 🌐 ViewsTech Community Members
 
-Welcome to the **ViewsTech** community! Below, you’ll find links to groups based on expertise.  
+Welcome to the **ViewsTech** community! Below, you’ll find how to join and become part of our specialized groups based on expertise.  
 Please note that **members are only allowed to join one group** based on your major or area of expertise.  
 This helps maintain clear and organized collaboration within the community.
 
 ---
 
-## 🔥 **Guidelines for Joining Groups**
+## 🔥 Guidelines for Joining Groups
 - Choose **only one** group that fits your current skills or role.
 - Switching groups is allowed later — notify admins to update your membership.
 - Joining multiple groups at once is **not allowed**.
 
 ---
 
-## 👩‍💻 **Software Engineers**
-- [Join the Software Engineering Group](https://discord.gg/zZCtGgcf)
+## 🚀 Join the ViewsTech Discord Community
+➡️ [**Click Here to Join the Discord Server**](https://discord.gg/qaWjsZhcFj)
 
-## 🤖 **Robotics Engineers**
-- [Join the Robotics Engineering Group](https://discord.gg/zZCtGgcf)
-
-## ⚡ **Electrical Engineers**
-- [Join the Electrical Engineering Group](https://discord.gg/zZCtGgcf)
-## 🧠 **AI/ML Engineers**
-- [Join the AI/ML Engineering Group](https://discord.gg/zZCtGgcf)
-
-## 🛠️ **Hardware Engineers**
-- [Join the Hardware Engineering Group](https://discord.gg/zZCtGgcf)
-
-## 🎨 **UI/UX Designers**
-- [Join the UI/UX Design Group](https://discord.gg/zZCtGgcf)
-
-## 💼 **Business & Marketing Specialists**
-- [Join the Business & Marketing Group](https://discord.gg/zZCtGgcf)
-
-## ⚖️ **Lawyers & Legal Advisors**
-- [Join the Legal & IP Group](https://discord.gg/zZCtGgcf)
-
-## 🎥 **Video Editors & Animators**
-- [Join the Video Editing & Animation Group](https://discord.gg/zZCtGgcf)
-
+Once inside, go to the `#specify-roles` channel and **type your major**  
+(e.g., `Software Engineer`, `Robotics Engineer`, `AI/ML Engineer`, etc.).  
+Admins will assign you the role that matches your expertise!
 
 ---
 
-
-## 📝 **How to Join**
-- Click one of the group links above to join your relevant team.
-- Ensure your choice aligns with your expertise or current focus.
-- Unsure which to pick? Ask admins for guidance.
+## 👇 Available Groups
+- 👩‍💻 **Software Engineers**
+- 🤖 **Robotics Engineers**
+- ⚡ **Electrical Engineers**
+- 🧠 **AI/ML Engineers**
+- 🛠️ **Hardware Engineers**
+- 🎨 **UI/UX Designers**
+- 💼 **Business & Marketing Specialists**
+- ⚖️ **Lawyers & Legal Advisors**
+- 🎥 **Video Editors & Animators**
 
 ---
 
-## ⚠️ **Important Rules**
+## 📝 How to Join
+1. Click the [**Join Discord**](https://discord.gg/qaWjsZhcFj) link above.
+2. In the server, go to `#specify-roles` and type your **major**.
+3. Admins will assign your role so you can access your group.
+4. Unsure which to pick? Ask admins for guidance.
+
+---
+
+## ⚠️ Important Rules
 - You may **only join one group** at a time.
 - Switching is allowed — contact admins before changing.
 - Respect group boundaries to keep communication clear and productive.
