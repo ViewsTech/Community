@@ -27,7 +27,7 @@ Admins will assign you the role that matches your expertise!
 - 🤖 **Robotics Engineers**
 - ⚡ **Electrical Engineers**
 - 🧠 **AI/ML Engineers**
-- 🛠️ **Hardware Engineers**
+- 🛠️ **Mechanical Engineers**
 - 🎨 **UI/UX Designers**
 - 💼 **Business & Marketing Specialists**
 - ⚖️ **Lawyers & Legal Advisors**
