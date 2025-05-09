@@ -48,7 +48,7 @@ To ensure a productive and respectful environment, please follow these guideline
 
 Join our online community to discuss, share, and collaborate:
 
-- **Discord**: []
+- **Discord**: [https://discord.gg/qaWjsZhcFj]
 ---
 
 ## 🛠️ Roles & Members
